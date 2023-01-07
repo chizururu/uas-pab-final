@@ -1,10 +1,12 @@
-package com.acr.animecommunityroom;
+package com.acr.animecommunityroom.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.acr.animecommunityroom.R;
 
 public class SignUpActivity extends AppCompatActivity {
 
